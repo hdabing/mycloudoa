@@ -1,0 +1,19 @@
+
+习惯SVN操作的，可以用这个客户端访问git
+
+官方网站 http://code.google.com/p/tortoisegit/
+
+TortoiseGit - The coolest Interface to Git Version Control
+
+Git Version of TortoiseSVN. It is a port of TortoiseSVN for Git.
+
+TortoiseGit supports you by regular tasks, such as committing, showing logs, diffing two versions, creating branches and tags, creating patches and so on (see our Screenshots). You're welcome to contribute to this project (help on coding, documentation, Translation, testing preview releases or helping other users on the mailing lists is really appreciated).
+Download & Install
+
+The latest and recommended release of TortoiseGit is: 1.8.0, see ReleaseNotes for details.
+
+Download TortoiseGit
+
+System prerequisites and installation howto
+
+msysgit 1.7.10 or above (the "Full installer for official Git for Windows" download package is sufficient) is also required for TortoiseGit (recommended order: install TortoiseGit first)
